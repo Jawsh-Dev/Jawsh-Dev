@@ -7,5 +7,6 @@ I enjoy all technology but, I am fond of the .NET Framework, Sql Server, Node.js
 - Connect with me on [Linkedin](www.linkedin.com/in/joshua-vaughn-dev) 
 
 ## GitHub Stats :chart_with_upwards_trend:
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawsh-Dev&show_icons=true&theme=vue-dark&hide_border=true&hide_title=true)](https://github.com/Jawsh-Dev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawsh-Dev&layout=compact&show_icons=true&theme=vue-dark&hide_border=true&hide_title=true)](https://github.com/Jawsh-Dev/github-readme-stats)
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawsh-Dev&show_icons=true&theme=vue-dark&hide_border=true&hide_title=true)](https://github.com/Jawsh-Dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawsh-Dev&show_icons=true&theme=vue-dark&hide_border=true&hide_title=true)](https://github.com/Jawsh-Dev/github-readme-stats)
 
