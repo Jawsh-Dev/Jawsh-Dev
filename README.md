@@ -1,7 +1,7 @@
 # Hi, I’m Josh :wave:
 
 I am a software developer that is passionate about connecting communities, making a positive impact, learning, and personal growth. 
-I am skilled in the .NET Framework, Sql Server, Node.js, as well as UI/UX.
+I am currently most skilled in the .NET Framework, Sql Server, Node.js, React, Nextjs, as well as UI/UX.
 
 ## Where To Find Me :mag:
 - Connect with me on [Linkedin](https://www.linkedin.com/in/joshua-vaughn-dev) 
